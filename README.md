@@ -1,2 +1,8 @@
-# dns
-Marco's DNS server - programming exercise 
+# A subset of a **Domain Name System** - programming exercise 
+
+```
+Receive Request (domain) 
+   |
+   V
+
+```
